@@ -13,7 +13,6 @@
         <smarter.version>1.0.0</smarter.version>
     </properties>
     <modules>
-        <module>smarter-biz</module>
         <module>smarter-common</module>
         <module>smarter-middle</module>
         <module>smarter-main</module>
@@ -33,6 +32,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
 
     <build>
         <plugins>
